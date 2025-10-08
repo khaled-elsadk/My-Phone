@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/My-Phone/static/css/main.efc9bf6c.css",
-    "main.js": "/My-Phone/static/js/main.5fee7539.js",
+    "main.js": "/My-Phone/static/js/main.a40fa9e8.js",
     "static/js/453.ce5d60f4.chunk.js": "/My-Phone/static/js/453.ce5d60f4.chunk.js",
     "index.html": "/My-Phone/index.html",
     "main.efc9bf6c.css.map": "/My-Phone/static/css/main.efc9bf6c.css.map",
-    "main.5fee7539.js.map": "/My-Phone/static/js/main.5fee7539.js.map",
+    "main.a40fa9e8.js.map": "/My-Phone/static/js/main.a40fa9e8.js.map",
     "453.ce5d60f4.chunk.js.map": "/My-Phone/static/js/453.ce5d60f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efc9bf6c.css",
-    "static/js/main.5fee7539.js"
+    "static/js/main.a40fa9e8.js"
   ]
 }
