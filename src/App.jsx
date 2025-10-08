@@ -1,5 +1,6 @@
 import './App.css';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import MasterLayout from './components/MasterLayout/MasterLayout';
 import Home from './pages/Home/Home';
 import About from './pages/About/About';
@@ -14,7 +15,8 @@ import ProductDetails from './pages/Products/ProductDetails';
 
 
 function App() {
-  let routes = createBrowserRouter([
+  
+  let routes = createHashRouter([
     {
       path: '/', element: <MasterLayout />, errorElement: <NotFound />, children: [
         { index: true, element: <Home /> },
